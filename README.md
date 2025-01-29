@@ -50,7 +50,7 @@ Check out the live demo: [Todo-list Demo Link](https://your-live-demo-link.com)
 ## 📩 Contact
 
 If you have any questions or want to collaborate, feel free to reach out:
-📧 Email: your.email@example.com  
+📧 Email: paulusuluap@gmail.com
 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/andrewpaulsergio/)  
 🚀 Portfolio: [My Portfolio](https://paul-portfolio-nine.vercel.app/)
 
