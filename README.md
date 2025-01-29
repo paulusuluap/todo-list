@@ -4,11 +4,11 @@ A sleek and efficient To-Do List application built with **React** to help users 
 
 ## 🚀 Features
 
-✅ **Add, Edit, and Delete Tasks** – Easily manage your to-dos with a smooth user interface.
-✅ **Mark Tasks as Completed** – Keep track of completed and pending tasks.
-✅ **Local Storage Persistence** – Saves tasks even after refreshing the page.
-✅ **Responsive Design** – Fully optimized for mobile and desktop screens.
-✅ **User-friendly UI** – Minimalistic and intuitive design for seamless experience.
+- ✅ **Add, Edit, and Delete Tasks** – Easily manage your to-dos with a smooth user interface.
+- ✅ **Mark Tasks as Completed** – Keep track of completed and pending tasks.
+- ✅ **Local Storage Persistence** – Saves tasks even after refreshing the page.
+- ✅ **Responsive Design** – Fully optimized for mobile and desktop screens.
+- ✅ **User-friendly UI** – Minimalistic and intuitive design for seamless experience.
 
 ## 🛠️ Technologies Used
 
@@ -52,8 +52,9 @@ Check out the live demo: [Todo-list Demo Link](https://your-live-demo-link.com)
 
 If you have any questions or want to collaborate, feel free to reach out:
 📧 Email: your.email@example.com  
-💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-🚀 Portfolio: [Your Portfolio](https://yourportfolio.com)  
+💼 LinkedIn: [My Profile](https://www.linkedin.com/in/andrewpaulsergio/)  
+🚀 Portfolio: [My Portfolio](https://paul-portfolio-nine.vercel.app/)
+
 
 ---
 
