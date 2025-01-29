@@ -51,9 +51,10 @@ Check out the live demo: [Todo-list Demo Link](https://your-live-demo-link.com)
 
 If you have any questions or want to collaborate, feel free to reach out:
 - 📧 Email: paulusuluap@gmail.com
-- 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/andrewpaulsergio/)  
-- 🚀 Portfolio: [My Portfolio](https://paul-portfolio-nine.vercel.app/)
-
+- 💼 LinkedIn: 
+<a href="https://www.linkedin.com/in/andrewpaulsergio/" target="_blank" rel="noopener noreferrer">My Profile</a>
+- 🚀 Portfolio: 
+<a href="https://paul-portfolio-nine.vercel.app/" target="_blank" rel="noopener noreferrer">My Profile</a>
 
 ---
 
