@@ -19,7 +19,7 @@ A sleek and efficient To-Do List application built with **React** to help users 
 
 ## 📷 Screenshots
 
-(https://github.com/user-attachments/assets/6351bfb3-36b0-4901-8876-22f67f0c46a0)
+[To-do List App Screenshot](https://github.com/user-attachments/assets/6351bfb3-36b0-4901-8876-22f67f0c46a0)
 
 ## 🏗️ Installation & Setup
 
